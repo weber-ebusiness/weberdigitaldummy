@@ -1,0 +1,11 @@
+{
+    "name": "weberdigital/weberdigitaldummy",
+    "description": "weberdigital Dummy",
+    "authors": [
+        {
+            "name": "weber.digital",
+            "email": "info@weber.digital",
+            "homepage": "https://weber.digital"
+        }
+    ]
+}
